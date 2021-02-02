@@ -19,6 +19,7 @@
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
+- Aislinn Fitzpatrick (https://github.com/afitzpa8)
 - Zach Kaufman(https://github.com/zchkfmn)
 - David Lynch(https://github.com/iamdlfl) 
 - [Terence Fisher](https://github.com/Terence-Fisher)
